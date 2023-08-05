@@ -1,0 +1,73 @@
+body{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+.menuLink{
+    color: cornflowerblue;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.titleH1 {
+    color: #1c3110f6;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.titleH2 {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px
+}
+.titleH3 {
+    color: rgb(71, 71, 71);
+    font-style: italic;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 10px
+}
+
+h1[data-title] {
+    color: brown;
+}
+.title {
+    color: darkgreen;
+    font-size: 20px;
+    line-height: 36px;
+    font-weight: bold;
+}
+.paragraphText {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 30px;
+    color: #7D7987
+}
+
+.image {
+    border-radius: 20px 0 40px 80px;
+    width: 170px;
+}
+.form-input {
+    width: 200px;
+    height: 30px;
+    outline: none;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    font-size: 14px;
+    line-height: 30px;
+}
+.btn {
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+}
